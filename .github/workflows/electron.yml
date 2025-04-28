@@ -1,4 +1,4 @@
-name: End-to-end tests
+name: End-to-end tests on Electron
 on: push
 jobs:
   cypress-run:
@@ -8,5 +8,3 @@ jobs:
         uses: actions/checkout@v4
       - name: Cypress run
         uses: cypress-io/github-action@v6
-        with:
-          browser: chrome
