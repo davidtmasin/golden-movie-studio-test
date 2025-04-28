@@ -51,4 +51,6 @@ Caso queira acessar a aplicação em produção, você pode utilizar o endereço
 
 ---
 
+ _Retornar ao repositório [Cypress](https://github.com/davidtmasin/cypress)._
+
 Copyright © 2025 David Teixeira de Masin
